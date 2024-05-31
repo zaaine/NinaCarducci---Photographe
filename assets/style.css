@@ -83,7 +83,7 @@ body {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
-	width: 60%;
+	/* width: 60%; */
 }
 #about-me p {
 	width: 80%;
@@ -352,5 +352,7 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
+
+	
 }
 
