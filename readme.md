@@ -66,6 +66,6 @@ Assurez-vous d'avoir installé les outils suivants sur votre machine :
    git clone https://github.com/zaaine/ninacarducci.git
    ```
 
-![Screenshot projet finalisé] (assets/images/NinnaCarducci_screen.webp)
+![Screenshot projet finalisé] (images/NinnaCarducci_screen.webp)
 
 By Zaaine Aziz
